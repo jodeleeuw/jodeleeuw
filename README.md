@@ -4,6 +4,4 @@ I am a cognitive scientist 🥼 at [Vassar College](https://www.vassar.edu/) wor
 
 I created and maintain [jsPsych](https://github.com/jspsych/jspsych), an open-source JavaScript tool for creating behavioral experiments that run in browsers. 
 
-I'm currently working on building tools to enable new kinds of data collection with jsPsych (like eye tracking 👀) and a tool for connecting web experiments to the [Open Science Framework](https://osf.io) so that data can be sent directly to the OSF when it is collected. 
-
-You can find me on <a rel="me" href="https://mastodon.online/@joshdeleeuw">Mastodon</a>. If you want to reach me for jsPsych support, please use the [discussions forum in the jsPsych repo](https://github.com/jspsych/jspsych/discussions).
+I'm currently working on building tools to enable new kinds of data collection with jsPsych (like eye tracking 👀) and a tool for connecting web experiments to the [Open Science Framework](https://osf.io) so that data can be sent directly to the OSF when it is collected.
